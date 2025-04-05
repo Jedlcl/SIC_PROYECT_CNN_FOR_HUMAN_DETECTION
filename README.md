@@ -1,2 +1,3 @@
-# SIC_PROYECT_CNN_FOR_HUMAN_DETECTION
-Red neuronal convolucional (CNN) para la detección de seres humanos en imágenes.
+
+# Detección de Humanos con Redes Neuronales Convolucionales (CNN)
+
